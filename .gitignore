@@ -1,0 +1,8 @@
+/target/
+/.tools/
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+# bin/ is intentionally tracked for direct installation from Git.
